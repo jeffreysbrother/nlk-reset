@@ -1,0 +1,25 @@
+{
+  "name": "nlk-reset",
+  "authors": [
+    "James Cool <jeffreysbrother@gmail.com>"
+  ],
+  "description": "a CSS reset for Ninthlink",
+  "main": "nlk.css",
+  "keywords": [
+    "css",
+    "reset",
+    "normalize",
+    "ninthlink",
+    "james",
+    "cool"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
