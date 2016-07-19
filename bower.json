@@ -3,15 +3,16 @@
   "authors": [
     "James Cool <jeffreysbrother@gmail.com>"
   ],
-  "description": "a CSS reset for Ninthlink",
+  "description": "CSS reset + utilities for Ninthlink",
   "main": "nlk.css",
   "keywords": [
     "css",
     "reset",
     "normalize",
+    "utilities",
+    "equal height columns"
     "ninthlink",
-    "james",
-    "cool"
+    "james cool"
   ],
   "license": "MIT",
   "homepage": "",
